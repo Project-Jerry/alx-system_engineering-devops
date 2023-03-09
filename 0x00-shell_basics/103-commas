@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1aF -mvn
+ls -1aFmvn
